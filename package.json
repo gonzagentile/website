@@ -4,10 +4,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "build": "vite build --outDir docs",
+    "serve": "vite preview"
   },
   "homepage": "https://gonzagentile.github.io/website",
   "dependencies": {
