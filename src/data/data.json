@@ -81,30 +81,32 @@
         "Security Awareness"
     ] },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
+      "icon": "fa fa-cloud",
+      "name": "OnPrem/Cloud Security",
+      "subServices": [
+        "Cloud and IaC Scan",
+        "Cloud Architecture Review",
+        "Cloud security policies",
+        "Cloud security services and tools for detection and remediation",
+        "EndPoint security",
+        "Secret Management",
+        "Data Security",
+        "WAF and Edge security",
+        "Network security",
+        "Infrastructure Hardening",
+        "Incident Response Playbooks",
+        "Kubernetes Security"
+    ] },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    }
+      "icon": "fa fa-code",
+      "name": "Application Security",
+      "subServices": [
+        "SAST",
+        "SCA",
+        "DAST",
+        "Pentesting",
+        "Vulnerability Management"
+    ] }
   ],
   "Testimonials": [
     {
