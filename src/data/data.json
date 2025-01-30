@@ -1,21 +1,20 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Your Trusted Partner in Cybersecurity.",
+    "paragraph": "We provide comprehensive IT security solutions to safeguard your business."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Team with more than 25 years of experience mainly in the financial industry protecting on-premises infrastructures such as cloud. Highly certified team in the security of cutting-edge technologies.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Certified Information Systems Security Professional",
+      "Certified Information Security Manager",
+      "Certified Information Systems Auditor"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "AWS Certified in Solutions Architect, Security, and DevOps",
+      "Kubernetes Certified in Administrador and Security",
+      "GCP Certified in Architecture, Security and Networking", 
+      "Azure and Terraform Certified"
     ]
   },
   "Gallery": [
