@@ -1,4 +1,5 @@
 import React from "react";
+import "./Header.css"; // Import the CSS file for styling
 
 export const Header = (props) => {
   return (
@@ -9,14 +10,12 @@ export const Header = (props) => {
             <div className="row">
               <div className="col-md-8 col-md-offset-2 intro-text">
                 <h1>
-                  {props.data ? props.data.title : "Loading"}
+                  VIRA SECURITY
                   <span></span>
                 </h1>
+                <p>{props.data ? props.data.title : "Loading"}</p>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
-                <a
-                  href="#services"
-                  className="btn btn-custom btn-lg page-scroll"
-                >
+                <a href="#services" className="btn btn-custom btn-lg page-scroll">
                   Learn More
                 </a>{" "}
               </div>

@@ -17,7 +17,7 @@
       "Azure and Terraform Certified"
     ]
   },
-/*   "Gallery": [
+"Gallery": [
     {
       "title": "Project Title",
       "largeImage": "img/portfolio/01-large.jpg",
@@ -63,7 +63,7 @@
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
-  ], */
+  ],
   "Services": [
     {
       "icon": "fa fa-shield",
