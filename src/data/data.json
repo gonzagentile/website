@@ -17,7 +17,7 @@
       "Azure and Terraform Certified"
     ]
   },
-  "Gallery": [
+/*   "Gallery": [
     {
       "title": "Project Title",
       "largeImage": "img/portfolio/01-large.jpg",
@@ -63,13 +63,23 @@
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
-  ],
+  ], */
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
+      "icon": "fa fa-shield",
+      "name": "V-CISO",
+      "subServices": [
+        "Security Guidelines",
+        "Security Policies",
+        "Compliance with external regulations",
+        "Infrastructure Recommendations and best practices",
+        "Application Security and DevSecOps",
+        "Security Champion",
+        "Security tooling integration",
+        "Vendor Risk Assessment",
+        "Identity and Access Management",
+        "Security Awareness"
+    ] },
     {
       "icon": "fa fa-cart-arrow-down",
       "name": "Consectetur adipiscing",
