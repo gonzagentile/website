@@ -1,0 +1,9 @@
+.submission-status {
+    margin-top: 20px;
+    font-size: 16px;
+    color: #28a745; /* Green color for success message */
+  }
+  
+  .submission-status p {
+    margin: 0;
+  }

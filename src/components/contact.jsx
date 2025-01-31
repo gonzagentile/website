@@ -9,6 +9,7 @@ const initialState = {
 };
 export const Contact = (props) => {
   const [{ name, email, message }, setState] = useState(initialState);
+  const [submissionStatus, setSubmissionStatus] = useState(""); // State for submission status
 
   const handleChange = (e) => {
     const { name, value } = e.target;
@@ -28,10 +29,12 @@ export const Contact = (props) => {
       .then(
         (result) => {
           console.log(result.text);
+          setSubmissionStatus("Message sent successfully!"); // Update submission status
           clearState();
         },
         (error) => {
           console.log(error.text);
+          setSubmissionStatus("Failed to send message. Please try again."); // Update submission status
         }
       );
   };
